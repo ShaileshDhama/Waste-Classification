@@ -1,27 +1,72 @@
 # Waste-Classification
 ### To classify 22500 images of organic and recyclable objects
 
+**Author** : SHAILESH DHAMA
+
 Waste management is a big problem in our country. Most of the wastes end up in landfills. This leads to many issues like
+**Increase in landfills
+**Eutrophication
+**Consumption of toxic waste by animals
+**Leachate
+**Increase in toxins
+**Land, water and air pollution
 
-Increase in landfills
-Eutrophication
-Consumption of toxic waste by animals
-Leachate
-Increase in toxins
-Land, water and air pollution
+### Dataset : https://www.kaggle.com/techsash/waste-classification-data
 
-APPROACH
+## Approach:
 
+### Data processing & Exploratory Data Analysis:
 
-Studied white papers on waste management
-Analysed the components of household waste
-Segregated into two classes (Organic and recyclable)
-Automated the process by using IOT and machine learning
-Reduce toxic waste ending in landfills
+    1.Introduction
+    2.Loading Libraries and variables
+    3.Load the dataset
+    4.Visualize the first batch
+    5.Correct the data
+    6.Model Training
+    7.Visualizing model performance
+    8.Predict and evaluate results
+    
+## RESULTS :
 
-IMPLEMENTATION
+#### Sample Labelled Images
+![Sample Labelled Images](./WASTE_1.png)
 
+#### CNN-Sequential Model Summary
+![CNN-Sequential Model Summary](./WASTE_2.png)
 
-Dataset is divided into train data (85%) and test data (15%)  
+#### Model Training
+![Model Training](./WASTE_3.png)
+![Model Training](./WASTE_4.png)
 
-Training data - 22564 images  Test data - 2513 images
+#### Model performance visualisation
+![Model performance visualisation](./WASTE_5.png)
+
+#### Model Prediction on Test Data
+![Model Prediction on Test Data](./WASTE_6.png)
+
+### For further information:
+
+Please review the narrative of our analysis in [our jupyter notebook](./Waste%20Classification.ipynb)
+
+For any additional questions, please contact **shaileshettyd@gmail.com)
+
+##### Repository Structure:
+
+```
+├── README.md                                                                                                   <- The top-level README for reviewers
+├── Waste%20Classification.ipynb                                                                                <- Narrative documentation of analysis
+├── https://www.kaggle.com/techsash/waste-classification-data                                                   <- Dataset
+└── images                                                                                                      <- generated from code
+```
+## Citing :
+
+```
+@misc{Shailesh:2020,
+  Author = {Shailesh Dhama},
+  Title = {Malaria-Detection-using-Cell-Images},
+  Year = {2020},
+  Publisher = {GitHub},
+  Journal = {GitHub repository},
+  Howpublished = {\url{https://github.com/ShaileshDhama/Malaria-Detection-using-Cell-Images}}
+}
+```
