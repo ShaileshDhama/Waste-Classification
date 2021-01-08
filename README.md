@@ -1,5 +1,5 @@
 # Waste-Classification
-### To classify 22500 images of organic and recyclable objects
+#### To classify 22500 images of organic and recyclable objects
 
 **Author** : SHAILESH DHAMA
 
@@ -65,7 +65,7 @@ For any additional questions, please contact **shaileshettyd@gmail.com)
 ## Citing :
 
 ```
-@misc{Shailesh:2020,
+@misc{Shailesh:2021,
   Author = {Shailesh Dhama},
   Title = {Waste-Classification},
   Year = {2021},
