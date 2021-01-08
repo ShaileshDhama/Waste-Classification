@@ -31,15 +31,19 @@ Waste management is a big problem in our country. Most of the wastes end up in l
 #### Sample Labelled Images
 ![Sample Labelled Images](./WASTE_1.png)
 
+
 #### CNN-Sequential Model Summary
 ![CNN-Sequential Model Summary](./WASTE_2.png)
+
 
 #### Model Training
 ![Model Training](./WASTE_3.png)
 ![Model Training](./WASTE_4.png)
 
+
 #### Model performance visualisation
 ![Model performance visualisation](./WASTE_5.png)
+
 
 #### Model Prediction on Test Data
 ![Model Prediction on Test Data](./WASTE_6.png)
@@ -63,10 +67,10 @@ For any additional questions, please contact **shaileshettyd@gmail.com)
 ```
 @misc{Shailesh:2020,
   Author = {Shailesh Dhama},
-  Title = {Malaria-Detection-using-Cell-Images},
-  Year = {2020},
+  Title = {Waste-Classification},
+  Year = {2021},
   Publisher = {GitHub},
   Journal = {GitHub repository},
-  Howpublished = {\url{https://github.com/ShaileshDhama/Malaria-Detection-using-Cell-Images}}
+  Howpublished = {\url{https://github.com/ShaileshDhama/Waste-Classification}}
 }
 ```
